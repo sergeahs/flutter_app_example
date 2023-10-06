@@ -11,15 +11,6 @@ Just take it 😃, and build your app 😎.
   </tr>
 </table>
 
-## Introduction
-
-**MaterialDialog** This Plugin will be useful to create simple, animated, and beautiful dialogs in your next Flutter app.
-This library implements Airbnb's [_Lottie_](https://lottiefiles.com/) library to render After Effects animation in app.
-
-## Implementation
-
-Implementation of Material Dialog library is so easy. You can check [/example](/example) directory for demo. Let's have look talk in details about it.
-
 ### install
 
 #### i. pubspec
@@ -39,14 +30,10 @@ import 'package:google_nav_bar/google_nav_bar.dart';
 
 Details see [pub.dev](https://pub.dev/packages/google_nav_bar).
 
-### Create Dialog
-
-As there are two types of dialogs in library. Material Dialogs are instantiated as follows.
-<a name="createMaterialDialog"></a>
 
 #### i. Google Nav Bar
 
-`Dialogs` class will be used to create your dialog, below is an example to show your dialog in the app.
+`GNav` class will be used to create your Google Nav Bar, below is an example to show your dialog in the app.
 
 ```dart
 GNav(
