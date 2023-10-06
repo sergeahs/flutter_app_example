@@ -5,11 +5,9 @@ Just take it 😃, and build your app 😎.
 <table style="width:100%">
   <tr>
     <th><b>1. Home</b></th>
-    <th><b>2. Likes</b></th> 
   </tr>
   <tr>
-    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/home_screen.jpg"/></td>
-    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/video.mp4"/></td>
+    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/home_screen.jpg" width="100"/></td>
   </tr>
 </table>
 
