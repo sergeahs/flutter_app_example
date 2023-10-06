@@ -1,0 +1,16 @@
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/flutter_app_example
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/assets/home.svg
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/assets/like.svg
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/assets/profile.svg
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/assets/search.svg
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/serge/myprojects/flutter_dashboard/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
