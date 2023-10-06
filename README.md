@@ -6,12 +6,10 @@ Just take it 😃, and build your app 😎.
   <tr>
     <th><b>1. Home</b></th>
     <th><b>2. Likes</b></th> 
-    <th><b>4. Profile</b></th>
   </tr>
   <tr>
-    <td><img src="https://github.com/Ezaldeen99/material_dialogs/raw/master/gifs/normal.gif"/></td>
-    <td><img src="https://github.com/Ezaldeen99/material_dialogs/raw/master/gifs/bottom.gif"/></td>
-    <td><img src="https://github.com/Ezaldeen99/material_dialogs/raw/master/gifs/bottom_animated.gif"/></td>
+    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/home_screen.jpg"/></td>
+    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/video.mp4"/></td>
   </tr>
 </table>
 
