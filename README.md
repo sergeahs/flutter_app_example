@@ -7,24 +7,18 @@ Just take it 😃, and build your app 😎.
     <th><b>1. Home</b></th>
   </tr>
   <tr>
-    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/home_screen.jpg" width="100"/></td>
+    <td><img src="https://github.com/sergeahs/sergeah/blob/main/public/home_screen.jpg"/></td>
   </tr>
 </table>
-
-<a name="introduction"></a>
 
 ## Introduction
 
 **MaterialDialog** This Plugin will be useful to create simple, animated, and beautiful dialogs in your next Flutter app.
 This library implements Airbnb's [_Lottie_](https://lottiefiles.com/) library to render After Effects animation in app.
 
-<a name="implementation"></a>
-
 ## Implementation
 
 Implementation of Material Dialog library is so easy. You can check [/example](/example) directory for demo. Let's have look talk in details about it.
-
-<a name="install"></a>
 
 ### install
 
@@ -43,9 +37,7 @@ Now in your Dart code, you can use:
 import 'package:google_nav_bar/google_nav_bar.dart';
 ```
 
-Details see [pub.dev](https://pub.dev/packages/material_dialogs/install).
-
-<a name="createDialog"></a>
+Details see [pub.dev](https://pub.dev/packages/google_nav_bar).
 
 ### Create Dialog
 
@@ -80,24 +72,9 @@ GNav(
     ),
 ```
 
-# Limitations
-
-it's better to make your animation to have the same background color as your dialog's background color, please use [lottie editor](https://lottiefiles.com/editor) to remove the background layer of your animation or make it same as your dialog background color before using it in the plugin.
-
-<a name="contribute"></a>
-
 ## Contribute
 
 Let's develop with collaborations. We would love to have contributions by raising issues and opening PRs. Filing an issue before PR is must.
-
-<a name="credits"></a>
-
-## Credits
-
-This library is built using following open-source libraries.
-
-- [Lottie for Flutter](https://pub.dev/packages/lottie)
-- [MaterialDialog-Android](https://github.com/PatilShreyas/MaterialDialog-Android) for inspiration
 
 ## License
 
